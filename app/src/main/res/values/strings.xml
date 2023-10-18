@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="tv_list_product">List Product</string>
+    <string name="no_value">No value</string>
+</resources>
